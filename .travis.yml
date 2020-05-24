@@ -4,7 +4,7 @@ node_js:
   - 14
 before_script:
   - npm install @11ty/eleventy -g
-script: eleventy
+script: npx @11ty/eleventy
 deploy:
   fqdn: blog.beardedfolk.com
   local_dir: _site
