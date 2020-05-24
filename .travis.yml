@@ -6,10 +6,11 @@ before_script:
 script: eleventy --pathprefix="/"
 deploy:
   fqdn: blog.beardedfolk.com
-  local-dir: _site
+  local_dir: _site
   provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
-  keep-history: true
+  cleanup: true
+  strategy: git
+  token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
+  keep_history: true
   on:
     branch: gh-pages

@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50304f9d-c9ba-4b0a-a1f8-86589eb2899c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bearded-11ty.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +75,7 @@
       <updated>1590112566980</updated>
       <workItem from="1590112569122" duration="3153000" />
       <workItem from="1590280575589" duration="72000" />
-      <workItem from="1590285083136" duration="357000" />
+      <workItem from="1590285083136" duration="687000" />
     </task>
     <servers />
   </component>
