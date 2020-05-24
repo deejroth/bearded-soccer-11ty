@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50304f9d-c9ba-4b0a-a1f8-86589eb2899c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_includes/layouts/post.njk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/layouts/static.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/page.njk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +51,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_site/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_includes/layouts" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_includes/layouts" />
+      <recent name="$PROJECT_DIR$/_site/images" />
+      <recent name="$PROJECT_DIR$/_site" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/_site" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_includes/layouts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_site/images" />
-      <recent name="$PROJECT_DIR$/_site" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -79,6 +82,7 @@
       <workItem from="1590280575589" duration="72000" />
       <workItem from="1590285083136" duration="1006000" />
       <workItem from="1590286735059" duration="4266000" />
+      <workItem from="1590346516226" duration="796000" />
     </task>
     <servers />
   </component>
@@ -98,10 +102,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1110" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590285324199">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="833" y="302" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590346685697">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="1110" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1590285324199" />
+    <state x="833" y="302" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1590346685697" />
     <state x="1110" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1590113242161" />
     <state x="979" y="190" key="SettingsEditor" timestamp="1590291157610">
       <screen x="0" y="23" width="1920" height="1057" />
