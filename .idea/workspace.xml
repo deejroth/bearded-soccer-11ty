@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50304f9d-c9ba-4b0a-a1f8-86589eb2899c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +75,7 @@
       <workItem from="1590112569122" duration="3153000" />
       <workItem from="1590280575589" duration="72000" />
       <workItem from="1590285083136" duration="1006000" />
+      <workItem from="1590286735059" duration="21000" />
     </task>
     <servers />
   </component>
@@ -93,6 +92,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1110" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590285324199">
